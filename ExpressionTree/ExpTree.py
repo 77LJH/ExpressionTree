@@ -1,6 +1,3 @@
-# 学习单位 ：广东工业大学
-# 学   生 ：凌嘉辉
-# 开发时间 ：2023/1/5 18:30
 
 # 二叉树
 class Tree(object):
@@ -87,5 +84,4 @@ if __name__ == '__main__':
         tree.inorder(tree, expression)
         # 对表达式进行赋值并且求出表达式的值
         assign_getvalue(expression)
-        print('广东工业大学大学-----先进制造学院-----21级计科6-----3121009321-----凌嘉辉')
         answer = input('是否继续进行计算(y/n)：')
