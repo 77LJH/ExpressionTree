@@ -55,7 +55,6 @@ def assign_getvalue(expression2):
 
 
 if __name__ == '__main__':
-    print('广东工业大学大学-----先进制造学院-----21级计科6-----3121009321-----凌嘉辉')
     tree = Tree()
     stack = Stack()
     answer = 'y'
